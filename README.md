@@ -15,7 +15,7 @@
   },
 }
 # Стата - ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m1shagh1324545&show_icons=true&theme=synthwave)
-# Визитка - http://m1shagh1324545.github.com/krokko
+# Визитка - [http://m1shagh1324545.github.com/krokko](https://m1shagh1324545.github.io/krokko/)
 # Соцсети {
   "discord": "onekrok",
   "telegram": "onekrokko",
